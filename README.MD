@@ -47,8 +47,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+##:fire: My Stats :
+![Snake animation](https://github.com/OgunrekunAyoola/OgunrekunAyoola/blob/output/github-contribution-grid-snake.svg)
 
-### My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=OgunrekunAyoola
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/ogunrekunAyoola/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgunrekunAyoola&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgunrekunAyoola)](https://github.com/ogunrekunAyoola/github-readme-stats)
