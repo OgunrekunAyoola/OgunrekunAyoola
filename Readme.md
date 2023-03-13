@@ -28,9 +28,9 @@ I am a Frotend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - I’m working as a Software Engineer and contributing to frontend for building web applications.
 
--  Exploring Technical Content Writing.
+- Technical Writer.
 
--  In my free time, I solve problems on GeeksforGeeks and read tech articles.
+-  In my free time, I solve problems and read tech articles.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AYOOLA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayoolaogunrekun)
 
