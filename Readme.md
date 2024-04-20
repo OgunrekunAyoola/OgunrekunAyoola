@@ -24,9 +24,9 @@
 
 
 #  About Me :
-I am a Frotend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- I’m working as a Software Engineer and contributing to frontend for building web applications.
+- I’m working as a Backend Engineer and contributing to building web applications.
 
 - Technical Writer.
 
